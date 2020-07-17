@@ -1,0 +1,31 @@
+1.  Function to censor words
+        -"learning algorithms" in email_one
+
+2.  Function to censor a list of words or phrases
+    and return the text
+        Proprietary Terms:
+        -"she"
+        -"personality matrix"
+        -"sense of self"
+        -"self-preservation"
+        -"learning algorithm"
+        -"her"
+        -"herself"
+
+3.  Function to censor negative words that have
+    occurred twice, as well as words from above
+    list
+        Negative Words:
+        -"concerned"
+        -"behind"
+        -"dangerous"
+        -"alarming
+        -"out of control"
+        -"help"
+        -"unhappy"
+        -"bad"
+        -"upset"
+        etc.. 
+
+4.  Function to censor words that come before and
+    after previously censored words
